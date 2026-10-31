@@ -49,7 +49,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-D97785?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:sofiaesp.dev@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/linkedin-D97785?style=for-the-badge&logoColor=FFFFFF)](www.linkedin.com/in/sofia-esperança-lourenço-4a52a2410)
+  [![Linkedin](https://img.shields.io/badge/linkedin-D97785?style=for-the-badge&logoColor=FFFFFF)](www.linkedin.com/in/sofia-esperança-lourenço-4a52a2410/)
 
 </div>
 
